@@ -1,0 +1,3 @@
+D:/Proiecte CV/ProductApp-Semester-Project-main/ProductApp-Semester-Project-main/Project1/cmake-build-debug/CMakeFiles/lab9-10.dir
+D:/Proiecte CV/ProductApp-Semester-Project-main/ProductApp-Semester-Project-main/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proiecte CV/ProductApp-Semester-Project-main/ProductApp-Semester-Project-main/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
